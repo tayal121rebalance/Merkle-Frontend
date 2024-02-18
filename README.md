@@ -8,9 +8,10 @@ The calendar works by selecting a country, which will fetch data from calendarif
 ![image](https://github.com/tayal121rebalance/Merkle-Frontend/assets/108736898/5d0b1271-d41a-48b7-882f-97e0b254082d)
 
 
+RUN COMMANDS BELOW 
 
-use command :  yarn to install dependencies.
-Create a account on calendarific and generate your new API key.
-Or else Inside .env file paste the API key mentioned in the mail 
-on terminall use : yarn run dev and open localhost:3000
+1.use command :  yarn to install dependencies.
+2.Create a account on calendarific and generate your new API key.
+3.Or else Inside .env file paste the API key mentioned in the mail 
+4.on terminall use : yarn run dev and open localhost:3000
 
